@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlexDancer", "PlexDancer\PlexDancer.csproj", "{3CCD69A6-81B3-4513-BC21-C97451218B12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlexDancer", "PlexDancer\PlexDancer.csproj", "{3CCD69A6-81B3-4513-BC21-C97451218B12}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D3F31CE7-FAAB-4315-9D21-997E42DC49E6}"
+	ProjectSection(SolutionItems) = preProject
+		README.MD = README.MD
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
